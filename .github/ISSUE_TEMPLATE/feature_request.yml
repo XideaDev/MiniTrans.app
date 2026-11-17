@@ -1,0 +1,11 @@
+name: Feature request / 功能建议
+description: Suggest an idea or a site translation rule. / 提出功能想法或网站翻译规则建议。
+labels: [enhancement]
+body:
+  - type: textarea
+    id: idea
+    attributes:
+      label: Your idea / 你的想法
+      description: What would you like Mini Trans to do, and why? / 希望 Mini Trans 做什么，为什么？
+    validations:
+      required: true

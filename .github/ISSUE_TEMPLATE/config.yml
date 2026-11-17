@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Help center / 帮助中心
+    url: https://minitrans.app/help/what-is-mini-trans/
+    about: Guides for installation, shortcuts, translation and AI writing. / 安装、快捷键、翻译与 AI 写作指南。
+  - name: Email support / 邮件支持
+    url: https://minitrans.app/support/
+    about: Contact support@minitrans.app for private questions. / 私密问题请发邮件至 support@minitrans.app。

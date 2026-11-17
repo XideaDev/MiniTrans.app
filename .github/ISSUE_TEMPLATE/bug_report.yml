@@ -1,0 +1,33 @@
+name: Bug report / 问题反馈
+description: Something in Mini Trans doesn't work as expected. / Mini Trans 的某个功能没有按预期工作。
+labels: [bug]
+body:
+  - type: markdown
+    attributes:
+      value: "Never paste API keys or personal data here. / 请勿在此粘贴 API Key 或个人信息。"
+  - type: input
+    id: version
+    attributes:
+      label: Mini Trans version / 版本
+      placeholder: "e.g. 1.0.0"
+    validations:
+      required: true
+  - type: dropdown
+    id: browser
+    attributes:
+      label: Browser / 浏览器
+      options: [Safari, Chrome, Edge, Firefox, Other / 其他]
+    validations:
+      required: true
+  - type: input
+    id: os
+    attributes:
+      label: OS & browser version / 系统与浏览器版本
+      placeholder: "e.g. macOS 15.5, Safari 18.5"
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: What happened? / 发生了什么？
+      description: Steps to reproduce, the page URL if public, and what you expected. / 复现步骤、公开页面的网址，以及你期望的结果。
+    validations:
+      required: true
