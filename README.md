@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://minitrans.app/en/">Website</a> ·
-  <a href="https://github.com/XideaDev/MiniTrans.app/releases/latest">Download</a> ·
+  <a href="https://github.com/XideaDev/MiniTrans.app/releases">Download</a> ·
   <a href="https://minitrans.app/en/help/what-is-mini-trans/">Help center</a> ·
   <a href="https://minitrans.app/en/support/">Support</a>
   <br />
@@ -26,7 +26,7 @@
 
 | Platform | How to get it |
 | --- | --- |
-| **Safari on macOS** | Download the latest `MiniTrans-<version>-safari.dmg` from [Releases](https://github.com/XideaDev/MiniTrans.app/releases/latest). Mac App Store listing coming soon. |
+| **Safari on macOS** | Download the latest `MiniTrans-<version>-safari.dmg` from [Releases](https://github.com/XideaDev/MiniTrans.app/releases). Mac App Store listing coming soon. |
 | Chrome / Edge / Firefox | Store listings coming soon. |
 
 **Requirements (Safari):** macOS 15 or later with Safari 18.4 or later.

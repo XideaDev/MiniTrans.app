@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://minitrans.app/">官网</a> ·
-  <a href="https://github.com/XideaDev/MiniTrans.app/releases/latest">下载</a> ·
+  <a href="https://github.com/XideaDev/MiniTrans.app/releases">下载</a> ·
   <a href="https://minitrans.app/help/what-is-mini-trans/">帮助中心</a> ·
   <a href="https://minitrans.app/support/">技术支持</a>
   <br />
@@ -26,7 +26,7 @@
 
 | 平台 | 获取方式 |
 | --- | --- |
-| **macOS 上的 Safari** | 在 [Releases](https://github.com/XideaDev/MiniTrans.app/releases/latest) 下载最新的 `MiniTrans-<版本>-safari.dmg`。Mac App Store 版即将上线。 |
+| **macOS 上的 Safari** | 在 [Releases](https://github.com/XideaDev/MiniTrans.app/releases) 下载最新的 `MiniTrans-<版本>-safari.dmg`。Mac App Store 版即将上线。 |
 | Chrome / Edge / Firefox | 商店版即将上线。 |
 
 **系统要求（Safari）：** macOS 15 及以上，Safari 18.4 及以上。
